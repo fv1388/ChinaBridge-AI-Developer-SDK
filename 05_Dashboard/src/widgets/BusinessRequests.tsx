@@ -1,0 +1,1 @@
+export default function BusinessRequests(){return <section>Business Requests</section>}

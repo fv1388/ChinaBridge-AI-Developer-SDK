@@ -1,0 +1,1 @@
+export default function AIToday(){return <section>AI Today</section>}
