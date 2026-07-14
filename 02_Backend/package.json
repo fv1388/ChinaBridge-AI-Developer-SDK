@@ -1,0 +1,11 @@
+{
+  "name":"chinabridge-ai-backend",
+  "private":true,
+  "scripts":{
+    "dev":"tsx watch src/server.ts",
+    "build":"tsc"
+  },
+  "dependencies":{
+    "express":"^4.19.2"
+  }
+}
