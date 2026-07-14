@@ -1,0 +1,8 @@
+{
+  "name":"chinabridge-auth",
+  "private":true,
+  "dependencies":{
+    "jsonwebtoken":"^9.0.2",
+    "bcrypt":"^5.1.1"
+  }
+}

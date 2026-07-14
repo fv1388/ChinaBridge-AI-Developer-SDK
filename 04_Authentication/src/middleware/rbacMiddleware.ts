@@ -1,0 +1,1 @@
+export const permit=(...roles)=> (req,res,next)=>next();
